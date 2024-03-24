@@ -1,0 +1,15 @@
+Q) Create a network with:
+
+4 Routers
+
+4 switches
+
+Minimum of 4 PCs. (1 per network)
+
+configure Static routing
+
+The output should be - All the systems from different networks should be able to communicate with each other.
+ 
+![image](https://github.com/udayk01/network_f/assets/52235763/4e5073f2-b2d4-41f5-ae20-c65d6e096c48)
+
+
